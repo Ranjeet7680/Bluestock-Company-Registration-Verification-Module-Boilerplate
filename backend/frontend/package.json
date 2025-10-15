@@ -1,0 +1,31 @@
+{
+"name": "bluestock-frontend",
+"private": true,
+"version": "1.0.0",
+"scripts": {
+"dev": "vite",
+"build": "vite build",
+"preview": "vite preview",
+"test": "vitest"
+},
+"dependencies": {
+"react": "19.x",
+"react-dom": "19.x",
+"react-router-dom": "6.x",
+"@reduxjs/toolkit": "1.9.x",
+"react-redux": "8.x",
+"@tanstack/react-query": "4.x",
+"axios": "1.x",
+"react-hook-form": "7.x",
+"@mui/material": "5.x",
+"react-phone-input-2": "2.x",
+"react-toastify": "9.x",
+"firebase": "10.x",
+"cloudinary": "1.x",
+"react-responsive": "9.x"
+},
+"devDependencies": {
+"vite": "5.x",
+"@vitejs/plugin-react": "4.x"
+}
+}
